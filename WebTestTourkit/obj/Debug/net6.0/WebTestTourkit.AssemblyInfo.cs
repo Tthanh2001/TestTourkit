@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebTestTourkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37a0356e9c41df6afbafcb8c9173ca74418f207c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3acd49226a6dce9dd1af51c125ffb3dba6cc656e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebTestTourkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebTestTourkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

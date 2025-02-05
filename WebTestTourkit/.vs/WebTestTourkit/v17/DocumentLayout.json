@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\job\\WebTestTourkit\\",
+  "WorkspaceRootPath": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\job\\webtesttourkit\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\b\u00E0i test\\testtourkit\\testtourkit\\webtesttourkit\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\job\\webtesttourkit\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\b\u00E0i test\\testtourkit\\testtourkit\\webtesttourkit\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\job\\webtesttourkit\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\b\u00E0i test\\testtourkit\\testtourkit\\webtesttourkit\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\b\u00E0i test\\testtourkit\\testtourkit\\webtesttourkit\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\job\\webtesttourkit\\webtesttourkit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|d:\\b\u00E0i test\\testtourkit\\testtourkit\\webtesttourkit\\webtesttourkit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{58F6AD38-9A96-4488-B01E-158250EA1D48}|WebTestTourkit.csproj|solutionrelative:webtesttourkit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,55 +106,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductTypeController.cs",
-              "DocumentMoniker": "D:\\job\\WebTestTourkit\\Controllers\\ProductTypeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductTypeController.cs",
-              "ToolTip": "D:\\job\\WebTestTourkit\\Controllers\\ProductTypeController.cs",
-              "RelativeToolTip": "Controllers\\ProductTypeController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Models\\ProductType.cs",
+              "ToolTip": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\ProductType.cs",
+              "RelativeToolTip": "Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:01:16.331Z",
+              "WhenOpened": "2025-02-05T04:20:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:20:03.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\job\\WebTestTourkit\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\job\\WebTestTourkit\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T03:59:31.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductManagementContext.cs",
-              "DocumentMoniker": "D:\\job\\WebTestTourkit\\Models\\ProductManagementContext.cs",
+              "DocumentMoniker": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\ProductManagementContext.cs",
               "RelativeDocumentMoniker": "Models\\ProductManagementContext.cs",
-              "ToolTip": "D:\\job\\WebTestTourkit\\Models\\ProductManagementContext.cs",
+              "ToolTip": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\Models\\ProductManagementContext.cs",
               "RelativeToolTip": "Models\\ProductManagementContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T03:58:57.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T03:58:57.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebTestTourkit",
-              "DocumentMoniker": "D:\\job\\WebTestTourkit\\WebTestTourkit.csproj",
+              "DocumentIndex": 4,
+              "Title": "WebTestTourkit.csproj",
+              "DocumentMoniker": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\WebTestTourkit.csproj",
               "RelativeDocumentMoniker": "WebTestTourkit.csproj",
-              "ToolTip": "D:\\job\\WebTestTourkit\\WebTestTourkit.csproj",
+              "ToolTip": "D:\\B\u00E0i Test\\TestTourkit\\TestTourkit\\WebTestTourkit\\WebTestTourkit.csproj",
               "RelativeToolTip": "WebTestTourkit.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T03:50:21.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T03:50:21.929Z"
             }
           ]
         },

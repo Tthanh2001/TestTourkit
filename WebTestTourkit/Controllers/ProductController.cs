@@ -19,12 +19,13 @@ namespace WebTestTourkit.Controllers
         public IActionResult GetAll()
         {
             var products = _context.Products
-                .Include(p => p.Product_ProductTypes)
-                .ThenInclude(pt => pt.ProductType)
+                .Include(p => p.ProductTypes)  // Include the ProductTypes collection for each Product
                 .ToList();
 
             return Ok(products);
         }
+
+
 
         // Add Product
         [HttpPost]

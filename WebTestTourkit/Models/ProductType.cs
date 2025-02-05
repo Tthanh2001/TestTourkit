@@ -15,5 +15,7 @@ namespace WebTestTourkit.Models
         public DateTime EntryDate { get; set; }
 
         public virtual ICollection<Product> Products { get; set; }
+        public virtual ICollection<ProductType> ProductTypes { get; set; }
+
     }
 }

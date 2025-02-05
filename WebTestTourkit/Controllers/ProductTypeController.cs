@@ -22,13 +22,14 @@ namespace WebTestTourkit.Controllers
                 {
                     pt.Id,
                     pt.Name,
-                    ProductCount = _context.Product_ProductTypes.Count(p => p.ProductTypeId == pt.Id),
+                    ProductCount = _context.Products.Count(p => p.ProductTypes.Any(pt2 => pt2.Id == pt.Id)),
                     pt.EntryDate
                 })
                 .ToList();
 
             return Ok(productTypes);
         }
+
 
         // Add ProductType
         [HttpPost]
@@ -67,8 +68,8 @@ namespace WebTestTourkit.Controllers
             if (productType == null) return NotFound();
 
             // Check if ProductType has associated products
-            var productCount = _context.Product_ProductTypes.Count(pt => pt.ProductTypeId == id);
-            if (productCount > 0)
+            var productCount = _context.Products.Any(p => p.ProductTypes.Any(pt => pt.Id == id));
+            if (productCount)
             {
                 return BadRequest("Cannot delete ProductType, it has associated products.");
             }
@@ -77,6 +78,7 @@ namespace WebTestTourkit.Controllers
             _context.SaveChanges();
             return Ok();
         }
+
     }
 }
-}
+
